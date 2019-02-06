@@ -1,5 +1,5 @@
 [discord]
-token = "NTQxOTUxNTQ4NDk0ODM5ODA4.DzzTNw.SbqabfaO_89NhSMB_F8J4pRxcjE"
+token = "BOT_TOKEN"
 
 [[commands]]
 prefix = "lifetime."
