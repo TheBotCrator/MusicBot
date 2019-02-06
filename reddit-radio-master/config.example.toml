@@ -1,15 +1,15 @@
 [discord]
-token = "main_bot_token"
+token = "NTQxOTUxNTQ4NDk0ODM5ODA4.DzzTNw.SbqabfaO_89NhSMB_F8J4pRxcjE"
 
 [[commands]]
-prefix = "Qdnp"
-aliases = [ "Qdcp" ]
+prefix = "lifetime."
+aliases = [ "lifetime." ]
 
 [[commands]]
-prefix = "Qdprev"
+prefix = "lifetime."
 
 [[commands]]
-prefix = "Qdnext"
+prefix = "lifetime."
 
 [voice]
 passes = 2
